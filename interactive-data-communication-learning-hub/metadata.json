@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Data Communication Learning Hub",
+  "description": "An interactive, visual, and highly responsive educational platform for learning Data Communication, featuring custom-designed protocol animations, interactive flowcharts, simulations, flashcards, and practice quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
